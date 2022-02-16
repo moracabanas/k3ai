@@ -110,7 +110,7 @@ where:
 So in our case will be: -->
 
 ```bash
-k3ai cluster deploy --type k3s --n mycluster
+k3ai cluster deploy --type k3s -n mycluster
 ```
 
 ## 🌝 Install a plugin to do your AI experimentations
